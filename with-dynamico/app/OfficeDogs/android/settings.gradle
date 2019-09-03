@@ -1,0 +1,3 @@
+rootProject.name = 'OfficeDogs'
+
+include ':app'

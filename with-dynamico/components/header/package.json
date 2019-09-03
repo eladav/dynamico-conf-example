@@ -1,0 +1,20 @@
+{
+  "name": "Header",
+  "version": "1.0.0",
+  "main": "./index.tsx",
+  "devDependencies": {
+    "@types/react": "^16.8.3",
+    "@types/react-native": "0.52.2",
+    "react": "^16.8.3",
+    "react-native": "0.59.8",
+    "ts-node": "^8.0.3",
+    "tslib": "^1.9.3",
+    "typescript": "^3.3.4000",
+    "native-base": "^2.12.1"
+  },
+  "peerDependencies": {
+    "react": "^16.8.3",
+    "react-native": "0.59.8",
+    "native-base": "^2.12.1"
+  }
+}
