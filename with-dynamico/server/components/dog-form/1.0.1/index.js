@@ -1,0 +1,2 @@
+"use strict";function _interopDefault(e){return e&&"object"==typeof e&&"default"in e?e.default:e}var React=_interopDefault(require("react")),reactNative=require("react-native"),DogForm=function(e){var t=e.name;return React.createElement(reactNative.View,null,React.createElement(reactNative.Text,{testID:"text"},"Your ",t," component"),React.createElement(reactNative.TextInput,{style:{height:40,borderColor:"gray",borderWidth:1},placeholder:"Hi"}))};module.exports=DogForm;
+//# sourceMappingURL=index.js.map

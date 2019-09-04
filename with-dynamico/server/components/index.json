@@ -1,1 +1,1 @@
-{"1953626774":{"dependencies":{"react":"16.8.3","react-native":"0.59.8","native-base":"^2.12.1"},"components":{"dogslist":"1.0.2","tabscontroller":"1.0.2","header":"1.0.0"}}}
+{"1953626774":{"dependencies":{"react":"16.8.3","react-native":"0.59.8","native-base":"^2.12.1"},"components":{"dogslist":"1.0.2","tabscontroller":"1.0.3","header":"1.0.0","dog-form":"1.0.1"}}}

@@ -1,7 +1,7 @@
 import React from 'react';
-import {Text} from 'react-native';
 import DogsList from '../components/DogsList';
 import dogs from './dogs';
+import AddDog from '../components/AddDog';
 export default [
     {
       heading: 'Dogs',
@@ -9,6 +9,6 @@ export default [
     },
     {
       heading: 'Add dog',
-      Page: () => <Text>add dog form...</Text>
+      Page: () => <AddDog name="my doggy"></AddDog>
     }
   ];
