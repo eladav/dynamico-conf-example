@@ -1,2 +1,0 @@
-"use strict";function _interopDefault(e){return e&&"object"==typeof e&&"default"in e?e.default:e}var React=_interopDefault(require("react")),nativeBase=require("native-base"),TabsController=function(e){var t=e.tabs;return React.createElement(nativeBase.Tabs,{tabBarPosition:"top"},t.map(function(e){var t=e.heading,a=e.Page;return React.createElement(nativeBase.Tab,{key:t,heading:t},React.createElement(a,null))}))};module.exports=TabsController;
-//# sourceMappingURL=index.js.map
