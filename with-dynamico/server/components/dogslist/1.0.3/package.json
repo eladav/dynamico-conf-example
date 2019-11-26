@@ -1,0 +1,1 @@
+{"name":"dogslist","version":"1.0.3","main":"index.js","devDependencies":{"@types/react":"^16.8.3","@types/react-native":"0.59.2","react":"^16.8.3","react-native":"0.59.9","ts-node":"^8.0.3","tslib":"^1.9.3","typescript":"^3.3.4000","native-base":"^2.12.1"},"peerDependencies":{"react":"16.8.3","react-native":"0.59.9","native-base":"^2.12.1"}}

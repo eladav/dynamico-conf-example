@@ -1,12 +1,12 @@
 {
   "name": "tabscontroller",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "./index.tsx",
   "devDependencies": {
     "@types/react": "^16.8.3",
     "@types/react-native": "0.52.2",
     "react": "^16.8.3",
-    "react-native": "0.59.8",
+    "react-native": "0.59.9",
     "native-base": "^2.12.1",
     "ts-node": "^8.0.3",
     "tslib": "^1.9.3",
@@ -14,9 +14,8 @@
   },
   "peerDependencies": {
     "react": "^16.8.3",
-    "react-native": "0.59.8",
+    "react-native": "0.59.9",
     "native-base": "^2.12.1"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
