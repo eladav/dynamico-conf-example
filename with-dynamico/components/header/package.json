@@ -6,7 +6,7 @@
     "@types/react": "^16.8.3",
     "@types/react-native": "0.52.2",
     "react": "^16.8.3",
-    "react-native": "0.59.9",
+    "react-native": "0.62.3",
     "ts-node": "^8.0.3",
     "tslib": "^1.9.3",
     "typescript": "^3.3.4000",
@@ -14,7 +14,7 @@
   },
   "peerDependencies": {
     "react": "^16.8.3",
-    "react-native": "0.59.9",
+    "react-native": "0.62.3",
     "native-base": "^2.12.1"
   }
 }
